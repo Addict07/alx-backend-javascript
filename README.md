@@ -1,20 +1,6 @@
 # alx-backend-javascript
 
-<h1 align= "center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4NqD2KTQ/node-js.png' border='0' alt='node-js'/></a>
-</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&width=435&lines=ES6+Basic\(:)](https://git.io/typing-svg)
-
-## Installation:
-```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
-// close terminal and open new one
-nvm install 12.11
-nvm alias default 12.11
-node -v
-npm -v
-```
 
 ## Authors :
 
